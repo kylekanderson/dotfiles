@@ -224,7 +224,6 @@ use({
 })
 
 use({
-  'williamboman/nvim-lsp-installer',
   'neovim/nvim-lspconfig',
   requires = {
     'b0o/schemastore.nvim',
